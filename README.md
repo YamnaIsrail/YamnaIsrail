@@ -7,7 +7,7 @@
 
 Hi, I'm **Yamna Israil**!
 
-I'm a **Flutter and Wordpress Developer** passionate about building mobile applications and exploring new technologies.
+I'm a **Flutter Developer** passionate about building mobile applications and exploring new technologies.
 
 ## About Me
 - 💻 Flutter & Dart enthusiast
@@ -18,26 +18,35 @@ I'm a **Flutter and Wordpress Developer** passionate about building mobile appli
 
 ## 🛠️ Skills & Technologies
 
- **Languages:**
-- ![Dart Badge](https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white)
-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
-- ![C++ Badge](https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white)
-- ![Python Badge](https://img.shields.io/badge/Python-%233776CC?logo=python&logoColor=white)
+**Languages:**
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white" alt="Dart Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white" alt="JavaScript Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white" alt="C++ Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Python-%233776CC?logo=python&logoColor=white" alt="Python Badge" style="margin: 5px;"/>
+</div>
 
 **Frameworks:**
-- ![Flutter Badge](https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white)
-- ![Firebase Badge](https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=white)
-- ![WordPress Badge](https://img.shields.io/badge/WordPress-%2346A2F1?logo=wordpress&logoColor=white)
-
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B?logo=flutter&logoColor=white" alt="Flutter Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=white" alt="Firebase Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/WordPress-%2346A2F1?logo=wordpress&logoColor=white" alt="WordPress Badge" style="margin: 5px;"/>
+</div>
 
 **Tools & Platforms:**
-- ![VS Code Badge](https://img.shields.io/badge/VS%20Code-%23007ACC?logo=visualstudiocode&logoColor=white)
-- ![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011?logo=github&logoColor=white)
-- ![Figma Badge](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white)
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011?logo=github&logoColor=white" alt="GitHub Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white" alt="Figma Badge" style="margin: 5px;"/>
+</div>
 
 **Other:**
-- ![Bubble.io Badge](https://img.shields.io/badge/Bubble.io-%23F1625D?logo=bubble&logoColor=white)
-- ![MySQL Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white)
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Bubble.io-%23F1625D?logo=bubble&logoColor=white" alt="Bubble.io Badge" style="margin: 5px;"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="MySQL Badge" style="margin: 5px;"/>
+</div>
+
+---
 
 ---
 
