@@ -41,10 +41,6 @@ I'm a **Flutter Developer** passionate about building mobile applications and ex
   <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white" alt="MySQL Badge" style="margin: 5px;"/>
 </div>
 ---
-## 📊 GitHub Stats
-![Yamna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YamnaIsrail&show_icons=true&hide_title=true&hide=prs)
-
----
 
 Feel free to **connect** with me and explore my repositories. 😊
 
